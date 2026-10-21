@@ -1,2 +1,3 @@
 # whatsglp-1.com
-whatsglp-1.com
+
+whatsglp-1.com is a ranked website asset for sale: an established, indexed GLP-1 / weight-loss domain with long-form educational content (what GLP-1 medicines are, FDA-approved semaglutide and tirzepatide brands, side effects, cost basics, and a guide to getting a prescription safely at /buy-glp-1/), ready for a licensed telehealth clinic, weight-loss practice or pharmacy to add its own brand and phone number. Sister domains weightlossglp-1.com, glp1denver.com and coloradoglp1.com are available individually or as a bundle. Ranking and traffic data (Search Console screenshots) available on request. Contact Eye To Ad Media: call or text 1-800-481-8638 or email info@eyetoad.com. Static site served by GitHub Pages (do not edit CNAME).

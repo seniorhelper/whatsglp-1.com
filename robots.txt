@@ -1,6 +1,5 @@
 # robots.txt — whatsglp-1.com
-# The internet's most complete GLP-1 educational resource
-# Powered by Elevation Health | elevationhealth.co
+# GLP-1 educational resource | Domain for sale
 
 # ── Standard Search Engines ──
 User-agent: Googlebot
